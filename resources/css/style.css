@@ -1,0 +1,39 @@
+/* General Style */
+
+body {
+    background-color: black;
+}
+
+* {
+    font-family: Verdana;
+}
+
+/* Main */
+h1 {
+    
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.download {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.about p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+/* Footer */
