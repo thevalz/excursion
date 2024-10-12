@@ -2,13 +2,20 @@
 
 body {
     background-color: black;
+    
 }
 
 * {
     font-family: Verdana;
+    text-align: center;
 }
 
 /* Main */
+main {
+    display: grid;
+}
+
+
 h1 {
     
     font-weight: normal;
@@ -24,16 +31,25 @@ h1 {
 h2 {
     font-weight: 300;
     font-size: 42px;
+    color: white
 }
 
-.about p {
+#about p {
     font-size: 21px;
     color: gray;
 }
 
-footer {
+.image {
+    margin-top: 30px;
+}
+
+
+
+footer p{
     text-align: right;
     color: gray;
+    margin-right: 15px;
+
 }
 
 /* Footer */
